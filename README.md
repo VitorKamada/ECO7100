@@ -15,7 +15,7 @@ ECO 7100 - Econometrics I  taught at Wayne State University (WSU).
 
 [Winter 2018](https://github.com/VitorKamada/ECO7100/raw/master/Syllabus/ECO%207100%20Econometrics%20I%20(Winter%202018).pdf)
 
-**Slides:**
+**Slides and R code:**
 
 [Winter 2019](https://github.com/VitorKamada/ECO7100/tree/master/Slides/Winter%202019)
 
